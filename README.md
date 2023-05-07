@@ -1,5 +1,5 @@
 Calculator App
-This is a simple calculator app that you can use to perform basic arithmetic operations. It was created using VS Code and JavaScript.
+This is a simple calculator app that you can use to perform basic arithmetic operations. It was created using HTML, CSS and JavaScript.
 
 Features
 This calculator app has the following features:
@@ -26,7 +26,7 @@ Modify the index.html, script.js, and style.css files as needed.
 Test your changes by opening the index.html file in your web browser.
 Commit your changes and push them to your remote repository.
 Credits
-This calculator app was created by [Your Name] as a personal project. It was built using VS Code and JavaScript.
+This calculator app was created by Valen as a personal project. It was built in VScode using HTML, CSS and JavaScript.
 
 License
 This calculator app is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
