@@ -36,4 +36,4 @@ This calculator app was created by [Your Name] as a personal project. It was bui
 
 ## License
 
-This calculator app is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as needed.
+This calculator app is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as needed..
