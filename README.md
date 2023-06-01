@@ -1,6 +1,6 @@
 # Calculator Application
 
-This is a simple calculator app that you can use to perform basic arithmetic operations. It was created using VS Code and JavaScript.
+This is a simple calculator app that you can use to perform basic arithmetic operations. It was created using VS Code and JavaScript. (Made for tutorial purposes!)
 
 ## Features
 
